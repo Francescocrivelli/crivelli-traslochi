@@ -1,0 +1,11 @@
+{
+    "exportPathMap": {
+      "/": { "page": "/" },
+      "/traslochi-sgomberi": { "page": "/traslochi-sgomberi" },
+      "/depositi": { "page": "/depositi" },
+      "/contatti": { "page": "/contatti" },
+      "/blog": { "page": "/blog" },
+      "/blog/guida-trasloco": { "page": "/blog/[slug]", "query": { "slug": "guida-trasloco" } },
+      "/blog/consigli-organizzazione": { "page": "/blog/[slug]", "query": { "slug": "consigli-organizzazione" } }
+    }
+  }

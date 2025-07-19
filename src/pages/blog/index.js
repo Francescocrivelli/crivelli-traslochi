@@ -5,6 +5,12 @@ import Layout from '../../components/Layout'
 export default function Blog() {
   const posts = [
     {
+      slug: 'come-scegliere-box-deposito-perfetto',
+      title: 'Come Scegliere il Box di Deposito Perfetto per le Tue Esigenze',
+      excerpt: 'Guida completa per scegliere il deposito ideale: dimensioni, sicurezza, ubicazione e consigli per ottimizzare lo spazio.',
+      date: '2024-12-20'
+    },
+    {
       slug: 'guida-trasloco',
       title: 'Tutto Quello che Devi Sapere per il Trasloco',
       excerpt: 'Una guida completa per preparare il tuo trasloco in modo organizzato ed efficiente.',

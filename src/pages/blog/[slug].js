@@ -3,6 +3,100 @@ import Layout from '../../components/Layout'
 
 // Blog posts data (in a real app, this would come from a CMS or database)
 const blogPosts = {
+  'come-scegliere-box-deposito-perfetto': {
+    slug: 'come-scegliere-box-deposito-perfetto',
+    title: 'Come Scegliere il Box di Deposito Perfetto per le Tue Esigenze',
+    date: '2024-12-20',
+    excerpt: 'Guida completa per scegliere il deposito ideale: dimensioni, sicurezza, ubicazione e consigli per ottimizzare lo spazio.',
+    content: `
+      <div>
+        <h2>Valutare le Dimensioni del Box di Deposito</h2>
+        <p>La scelta delle dimensioni corrette è fondamentale per ottimizzare i costi e lo spazio. Ecco come calcolare lo spazio necessario:</p>
+        <ul>
+          <li><strong>Inventario completo:</strong> Fate una lista dettagliata di tutti gli oggetti da depositare</li>
+          <li><strong>Misurate tutto:</strong> Prendete le misure di mobili e scatole per calcolare il volume totale</li>
+          <li><strong>Aggiungete il 20%:</strong> Lasciate sempre spazio extra per la movimentazione e futuri depositi</li>
+          <li><strong>Considerate l'altezza:</strong> Sfruttate lo spazio verticale con scaffalature e impilamenti sicuri</li>
+        </ul>
+        <p><em>Tip professionale:</em> Un box da 10m² può contenere mobili di un trilocale, mentre 5m² sono sufficienti per un monolocale.</p>
+
+        <h2>Criteri di Sicurezza Essenziali</h2>
+        <p>La sicurezza del vostro deposito deve essere una priorità assoluta. Verificate questi aspetti:</p>
+        <ul>
+          <li><strong>Videosorveglianza 24/7:</strong> Sistema di telecamere attivo h24 con registrazione</li>
+          <li><strong>Accesso controllato:</strong> Badge personali, codici di accesso e controllo degli orari</li>
+          <li><strong>Allarme antintrusione:</strong> Sensori di movimento e allarmi collegati a centrale operativa</li>
+          <li><strong>Illuminazione adeguata:</strong> Aree ben illuminate per maggiore sicurezza</li>
+          <li><strong>Assicurazione:</strong> Verificate la copertura assicurativa inclusa nel servizio</li>
+        </ul>
+
+        <h2>Ubicazione e Accessibilità</h2>
+        <p>La posizione del deposito influenza la comodità d'uso e i costi di trasporto:</p>
+        <ul>
+          <li><strong>Vicinanza:</strong> Scegliete un deposito facilmente raggiungibile dalla vostra zona</li>
+          <li><strong>Orari di accesso:</strong> Verificate gli orari di apertura e la flessibilità di accesso</li>
+          <li><strong>Parcheggio:</strong> Presenza di parcheggi gratuiti per facilitare il carico/scarico</li>
+          <li><strong>Servizi aggiuntivi:</strong> Disponibilità di carrelli, elevatori e assistenza per il trasporto</li>
+        </ul>
+
+        <h2>Condizioni Ambientali del Deposito</h2>
+        <p>Le condizioni climatiche del box sono cruciali per preservare i vostri beni:</p>
+        <ul>
+          <li><strong>Controllo umidità:</strong> Depositi con sistema di deumidificazione per prevenire muffe</li>
+          <li><strong>Temperatura costante:</strong> Ambiente climatizzato per oggetti sensibili</li>
+          <li><strong>Ventilazione:</strong> Circolazione d'aria adeguata per mantenere un ambiente salubre</li>
+          <li><strong>Impermeabilità:</strong> Strutture protette da infiltrazioni d'acqua</li>
+        </ul>
+
+        <h2>Consigli per Organizzare lo Spazio del Deposito</h2>
+        <p>Massimizzate l'efficienza del vostro box con questi suggerimenti professionali:</p>
+        <ul>
+          <li><strong>Mappatura degli oggetti:</strong> Create una mappa digitale della disposizione</li>
+          <li><strong>Oggetti frequenti davanti:</strong> Posizionate vicino all'entrata ciò che usate spesso</li>
+          <li><strong>Scaffalature verticali:</strong> Utilizzate mensole e scaffali per sfruttare l'altezza</li>
+          <li><strong>Protezione degli oggetti:</strong> Coprite mobili con teli protettivi</li>
+          <li><strong>Etichettatura chiara:</strong> Marchiate ogni scatola con contenuto dettagliato</li>
+          <li><strong>Corridoi di accesso:</strong> Mantenete passaggi liberi per facilitare i movimenti</li>
+        </ul>
+
+        <h2>Costi e Contratti: Cosa Sapere</h2>
+        <p>Valutate attentamente gli aspetti economici e contrattuali:</p>
+        <ul>
+          <li><strong>Confrontate i prezzi:</strong> Richiedete preventivi dettagliati da più fornitori</li>
+          <li><strong>Costi nascosti:</strong> Verificate spese aggiuntive per accesso, pulizie o servizi extra</li>
+          <li><strong>Flessibilità contrattuale:</strong> Possibilità di modifica delle dimensioni o durata</li>
+          <li><strong>Modalità di pagamento:</strong> Opzioni di pagamento mensile, trimestrale o annuale</li>
+          <li><strong>Clausole di recesso:</strong> Tempi e modalità per la chiusura del contratto</li>
+        </ul>
+
+        <h2>Quando Scegliere un Deposito Temporaneo vs Permanente</h2>
+        <p>La durata del deposito influenza la scelta del servizio più adatto:</p>
+        <h3>Deposito Temporaneo (1-6 mesi):</h3>
+        <ul>
+          <li>Durante ristrutturazioni domestiche</li>
+          <li>Traslochi con sovrapposizione di tempi</li>
+          <li>Viaggi prolungati o trasferimenti temporanei</li>
+        </ul>
+        <h3>Deposito Permanente (oltre 6 mesi):</h3>
+        <ul>
+          <li>Ridimensionamento della casa</li>
+          <li>Oggetti stagionali (sci, attrezzature estive)</li>
+          <li>Archivio documenti aziendali</li>
+          <li>Collezioni e oggetti di valore</li>
+        </ul>
+
+        <h2>Servizi Aggiuntivi da Considerare</h2>
+        <p>Alcuni depositi offrono servizi extra che possono semplificarvi la vita:</p>
+        <ul>
+          <li><strong>Ritiro a domicilio:</strong> Servizio di trasporto dalla vostra casa al deposito</li>
+          <li><strong>Imballaggio professionale:</strong> Personale specializzato per proteggere i vostri beni</li>
+          <li><strong>Inventario digitale:</strong> Catalogazione fotografica di tutti gli oggetti depositati</li>
+          <li><strong>Assicurazione estesa:</strong> Copertura aggiuntiva per oggetti di valore</li>
+          <li><strong>Servizio di pulizia:</strong> Pulizia periodica del box per mantenere l'igiene</li>
+        </ul>
+      </div>
+    `
+  },
   'guida-trasloco': {
     slug: 'guida-trasloco',
     title: 'Tutto Quello che Devi Sapere per il Trasloco',
